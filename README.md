@@ -1,4 +1,4 @@
-# Frontend Mentor - Room homepage
+# Frontend Mentor - Room homepage - live link - galleryy.netlify.app
 
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
 
